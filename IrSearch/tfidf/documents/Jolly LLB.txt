@@ -1,0 +1,9 @@
+Title: Jolly LLB
+Year: 2013
+genres:  Action Comedy Drama
+Duration: PT135M
+ReleaseDate: 2013-03-15
+Storyline: A small time lawyer files a PIL in court against his own idols case.
+Actors:  Arshad Warsi Amrita Rao Boman Irani
+Imdb Rating: 7.3
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjgzNDdiNmEtYWI1OC00ZjhjLWE2ZWQtY2QyNjE2ZDAyNTI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY500_CR0,0,378,500_AL_.jpg

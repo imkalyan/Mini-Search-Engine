@@ -1,0 +1,10 @@
+Title: Rebecca
+Year: 1940
+genres:  Drama Mystery Romance
+Duration: PT130M
+ReleaseDate: 1940-10-01
+Storyline: A shy ladies' companion, staying in Monte Carlo with her stuffy employer, meets the wealthy Maxim de Winter. She and Max fall in love, marry and return to Manderley, his large country estate in Cornwall. Max is still troubled by the death of his first wife, Rebecca, in a boating accident the year before. The second Mrs. de Winter clashes with the housekeeper, Mrs. Danvers, and discovers that Rebecca still has a strange hold on everyone at Manderley.                Written by
+Col Needham <col@imdb.com>
+Actors:  Laurence Olivier Joan Fontaine George Sanders
+Imdb Rating: 8.2
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,348,500_AL_.jpg

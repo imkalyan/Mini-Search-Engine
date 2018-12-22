@@ -1,0 +1,10 @@
+Title: The Dark Knight Rises
+Year: 2012
+genres:  Action Thriller
+Duration: PT164M
+ReleaseDate: 2012-07-25
+Storyline: Despite his tarnished reputation after the events of The Dark Knight, in which he took the rap for Dent's crimes, Batman feels compelled to intervene to assist the city and its police force which is struggling to cope with Bane's plans to destroy the city.                Written by
+WellardRockard
+Actors:  Christian Bale Tom Hardy Anne Hathaway
+Imdb Rating: 8.5
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SY360_SX243_AL_.jpg

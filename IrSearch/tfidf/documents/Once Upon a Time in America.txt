@@ -1,0 +1,10 @@
+Title: Once Upon a Time in America
+Year: 1984
+genres:  Crime Drama
+Duration: PT229M
+ReleaseDate: 1984-08-17
+Storyline: Epic tale of a group of Jewish gangsters in New York, from childhood, through their glory years during prohibition, and their meeting again 35 years later.                Written by
+Andrew Welsh <andreww@bnr.ca>
+Actors:  Robert De Niro James Woods Elizabeth McGovern
+Imdb Rating: 8.4
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,319,500_AL_.jpg

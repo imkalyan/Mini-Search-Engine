@@ -1,0 +1,10 @@
+Title: The Imitation Game
+Year: 2014
+genres:  Biography Drama Thriller
+Duration: PT114M
+ReleaseDate: 2015-01-16
+Storyline: Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.                Written by
+Studio Canal
+Actors:  Benedict Cumberbatch Keira Knightley Matthew Goode
+Imdb Rating: 8.1
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SY500_CR0,0,340,500_AL_.jpg

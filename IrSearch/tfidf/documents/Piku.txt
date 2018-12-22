@@ -1,0 +1,9 @@
+Title: Piku
+Year: 2015
+genres:  Comedy Drama
+Duration: PT123M
+ReleaseDate: 2015-05-08
+Storyline: A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.
+Actors:  Amitabh Bachchan Deepika Padukone Irrfan Khan
+Imdb Rating: 7.6
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_SY500_SX375_AL_.jpg

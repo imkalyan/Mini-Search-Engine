@@ -1,0 +1,10 @@
+Title: Jurassic Park
+Year: 1993
+genres:  Adventure Sci-Fi Thriller
+Duration: PT127M
+ReleaseDate: 1993-09-03
+Storyline: Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.                Written by
+Film_Fan
+Actors:  Sam Neill Laura Dern Jeff Goldblum
+Imdb Rating: 8.1
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SY500_CR0,0,333,500_AL_.jpg

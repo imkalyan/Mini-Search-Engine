@@ -1,0 +1,10 @@
+Title: Company
+Year: 2002
+genres:  Action Crime Thriller
+Duration: PT155M
+ReleaseDate: 2002-04-15
+Storyline: Mallik is a henchman of Aslam Bhai, a Mumbai underworld kingpin. He inducts local hothead Chandu into the gang, and the two of them soon form a formidable faction within the gang, eventually displacing Aslam. As the empire grows, however, the two of them start drifting apart.                Written by
+Joyojeet Pal
+Actors:  Ajay Devgn Mohanlal Manisha Koirala
+Imdb Rating: 8.0
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMGRkNDJlZmEtZGNhNi00OTRhLWE5NDUtYmMwNGZjMzU0MDk5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY500_SX346_AL_.jpg

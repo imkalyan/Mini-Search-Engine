@@ -1,0 +1,10 @@
+Title: Deer Hunter
+Year: 1978
+genres:  Drama War
+Duration: PT183M
+ReleaseDate: 1979-03-03
+Storyline: Michael, Steven and Nick are young factory workers from Pennsylvania who enlist into the Army to fight in Vietnam. Before they go, Steven marries the pregnant Angela, and their wedding party also serves as the men's farewell party. After some time and many horrors, the three friends fall in the hands of the Vietcong and are brought to a prison camp in which they are forced to play Russian roulette against each other. Michael makes it possible for them to escape, but they soon get separated again.                Written by
+Leon Wolters <wolters@strw.LeidenUniv.nl>
+Actors:  Robert De Niro Christopher Walken John Cazale
+Imdb Rating: 8.2
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,339,500_AL_.jpg

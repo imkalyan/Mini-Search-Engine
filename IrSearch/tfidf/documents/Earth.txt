@@ -1,0 +1,10 @@
+Title: Earth
+Year: 1998
+genres:  Drama Romance War
+Duration: PT110M
+ReleaseDate: 1999-07-07
+Storyline: The movie opens in Lahore of 1947 before India and Pakistan became independent. It is a cosmopolitan city, depicted by the coterie of working class friends who are from different religions. The rest of the movie chronicles the fate of this group and the maddening religious that sweeps even this city as the partition of the two countries is decided and Lahore is given to Pakistan.                Written by
+Neel V Kumar <neelvk@iname.com>
+Actors:  Aamir Khan Nandita Das Rahul Khanna
+Imdb Rating: 7.8
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzQ2ODYyNl5BMl5BanBnXkFtZTcwMzY5MjYxMQ@@._V1_SY237_CR0,0,166,237_AL_.jpg

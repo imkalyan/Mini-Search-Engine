@@ -1,0 +1,10 @@
+Title: Guldfeber
+Year: 1925
+genres:  Adventure Comedy Drama
+Duration: PT95M
+ReleaseDate: 1925-09-28
+Storyline: A lone prospector ventures into Alaska looking for gold. He gets mixed up with some burly characters and falls in love with the beautiful Georgia. He tries to win her heart with his singular charm.                Written by
+John J. Magee <magee@helix.mgh.harvard.edu>
+Actors:  Charles Chaplin Mack Swain Tom Murray
+Imdb Rating: 8.2
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY459_CR0,0,335,459_AL_.jpg

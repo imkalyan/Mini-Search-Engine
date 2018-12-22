@@ -1,0 +1,10 @@
+Title: The Shining
+Year: 1980
+genres:  Drama Horror
+Duration: PT146M
+ReleaseDate: 1980-09-26
+Storyline: Signing a contract, Jack Torrance, a normal writer and former teacher agrees to take care of a hotel which has a long, violent past that puts everyone in the hotel in a nervous situation. While Jack slowly gets more violent and angry of his life, his son, Danny, tries to use a special talent, the "Shining", to inform the people outside about whatever that is going on in the hotel.                Written by
+J. S. Golden
+Actors:  Jack Nicholson Shelley Duvall Danny Lloyd
+Imdb Rating: 8.4
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY476_CR0,0,313,476_AL_.jpg

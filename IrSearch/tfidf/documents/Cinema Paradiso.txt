@@ -1,0 +1,10 @@
+Title: Cinema Paradiso
+Year: 1988
+genres:  Drama
+Duration: PT155M
+ReleaseDate: 1990-01-19
+Storyline: A famous film director remembers his childhood at the Cinema Paradiso where Alfredo, the projectionist, first brought about his love of films. He returns home to his Sicilian village for the first time after almost 30 years and is reminded of his first love, Elena, who disappeared from his life before he left for Rome.                Written by
+Graeme Roy <gsr@cbmamiga.demon.co.uk>
+Actors:  Philippe Noiret Enzo Cannavale Antonella Attili
+Imdb Rating: 8.5
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMTgzOTEwOF5BMl5BanBnXkFtZTgwNTUxNjcxMTE@._V1_SY249_CR0,0,168,249_AL_.jpg

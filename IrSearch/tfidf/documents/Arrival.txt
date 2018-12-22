@@ -1,0 +1,9 @@
+Title: Arrival
+Year: 2016
+genres:  Drama Mystery Sci-Fi
+Duration: PT116M
+ReleaseDate: 2016-12-02
+Storyline: When mysterious spacecraft touch down across the globe, an elite team - led by expert linguist Louise Banks - is brought together to investigate. As mankind teeters on the verge of global war, Banks and the team race against time for answers - and to find them, she will take a chance that could threaten her life, and quite possibly humanity.
+Actors:  Amy Adams Jeremy Renner Forest Whitaker
+Imdb Rating: 8.1
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY500_CR0,0,320,500_AL_.jpg

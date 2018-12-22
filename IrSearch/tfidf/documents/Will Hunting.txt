@@ -1,0 +1,10 @@
+Title: Will Hunting
+Year: 1997
+genres:  Drama
+Duration: PT126M
+ReleaseDate: 1998-03-13
+Storyline: A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.                Written by
+Dima & Danielle
+Actors:  Robin Williams Matt Damon Ben Affleck
+Imdb Rating: 8.3
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,327,500_AL_.jpg

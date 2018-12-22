@@ -1,0 +1,10 @@
+Title: Django Unchained
+Year: 2012
+genres:  Drama Western
+Duration: PT165M
+ReleaseDate: 2013-01-18
+Storyline: A German dentist buys the freedom of a slave and trains him with the intent to make him his deputy bounty hunter. Instead, he is led to the site of the slave's wife who belongs to a ruthless plantation owner.                Written by
+BenLobel
+Actors:  Jamie Foxx Christoph Waltz Leonardo DiCaprio
+Imdb Rating: 8.4
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SY500_CR0,0,337,500_AL_.jpg

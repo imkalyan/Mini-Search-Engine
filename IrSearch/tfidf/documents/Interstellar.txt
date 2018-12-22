@@ -1,0 +1,9 @@
+Title: Interstellar
+Year: 2014
+genres:  Adventure Drama Sci-Fi
+Duration: PT169M
+ReleaseDate: 2014-11-07
+Storyline: Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.
+Actors:  Matthew McConaughey Anne Hathaway Jessica Chastain
+Imdb Rating: 8.6
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SY500_CR0,0,320,500_AL_.jpg

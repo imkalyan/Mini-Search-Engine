@@ -1,0 +1,9 @@
+Title: John Wick: Chapter 2
+Year: 2017
+genres:  Action Crime Thriller
+Duration: PT122M
+ReleaseDate: 2017-02-24
+Storyline: After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.
+Actors:  Keanu Reeves Riccardo Scamarcio Ian McShane
+Imdb Rating: 8.2
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SY500_CR0,0,324,500_AL_.jpg

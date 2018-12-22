@@ -1,0 +1,10 @@
+Title: Network
+Year: 1976
+genres:  Drama
+Duration: PT121M
+ReleaseDate: 1977-12-25
+Storyline: In the 1970s, terrorist violence is the stuff of networks' nightly news programming and the corporate structure of the UBS Television Network is changing. Meanwhile, Howard Beale, the aging UBS news anchor, has lost his once strong ratings share and so the network fires him. Beale reacts in an unexpected way. We then see how this affects the fortunes of Beale, his coworkers (Max Schumacher and Diana Christensen), and the network.                Written by
+Bruce Janson <bruce@cs.su.oz.au>
+Actors:  Faye Dunaway William Holden Peter Finch
+Imdb Rating: 8.1
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BNzk5MjcxNTg2MF5BMl5BanBnXkFtZTgwMzY2MTUxMDE@._V1_SY250_CR0,0,186,250_AL_.jpg

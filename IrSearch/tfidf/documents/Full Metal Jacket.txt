@@ -1,0 +1,10 @@
+Title: Full Metal Jacket
+Year: 1987
+genres:  Drama War
+Duration: PT116M
+ReleaseDate: 1987-10-02
+Storyline: A two-segment look at the effect of the military mindset and war itself on Vietnam era Marines. The first half follows a group of recruits in boot camp under the command of the punishing Gunnery Sergeant Hartman. The second half shows one of those recruits, Joker, covering the war as a correspondent for Stars and Stripes, focusing on the Tet offensive.                Written by
+Scott Renshaw <as.idc@forsythe.stanford.edu>
+Actors:  Matthew Modine R. Lee Ermey Vincent D'Onofrio
+Imdb Rating: 8.3
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,328,500_AL_.jpg

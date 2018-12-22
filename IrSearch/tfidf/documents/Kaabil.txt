@@ -1,0 +1,9 @@
+Title: Kaabil
+Year: 2017
+genres:  Action Drama Romance
+Duration: PT139M
+ReleaseDate: 2017-01-25
+Storyline: A blind man sets out to avenge the murder of his wife.
+Actors:  Hrithik Roshan Yami Gautam Ronit Roy
+Imdb Rating: 7.4
+Poster url: https://images-na.ssl-images-amazon.com/images/M/MV5BNGU0MDM1ODgtZmMwNi00NWRiLTgxYWEtMjJlNjMxNjc1NzQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkxMzY0Mjk@._V1_SY500_CR0,0,369,500_AL_.jpg
